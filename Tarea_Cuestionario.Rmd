@@ -1,0 +1,35 @@
+---
+title: "Tarea_Cuestionario Introducción a la Estadística"
+author: "Roberto Coto Guevara"
+date: "`r Sys.Date()`"
+output: 
+  prettydoc::html_pretty:
+    theme: cayman
+    toc: yes
+---
+
+
+
+# Introducción
+
+El presente documento corresponde al **Formulario de Deserción Académica**, cuyo propósito es recopilar la información necesaria para formalizar la interrupción o suspensión de estudios por parte del estudiante en la institución.
+
+A través de este formulario se busca:
+
+* Registrar de manera oficial la decisión del estudiante.
+* Identificar las razones que motivan la deserción.
+* Contar con un respaldo administrativo para actualizar el expediente académico.
+* Generar datos estadísticos que permitan diseñar estrategias de retención y acompañamiento estudiantil.
+
+Se recomienda al estudiante leer cuidadosamente cada sección y completar la información de forma clara y precisa. Este documento constituye parte del registro institucional y será revisado por la coordinación académica antes de su aprobación final.
+
+# Instrucciones
+
+* Lea cuidadosamente cada sección antes de contestar.
+* Marque con una X la opción que corresponda en los apartados de selección.
+* Escriba con letra legible en los espacios destinados para respuestas abiertas.
+* Una vez completado, entregue este documento en la coordinación académica.
+
+
+# Formulario 
+<https://forms.office.com/r/2KcaU6fqgi?origin=lprLink>
